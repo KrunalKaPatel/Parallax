@@ -12,6 +12,7 @@ p{
 	background-image: url("img1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 	background-attachment: fixed;
 	min-height: 100vh;
 	width: 100%;
@@ -21,6 +22,7 @@ p{
 	background-image: url("img2.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 	background-attachment: fixed;
 	min-height: 100vh;
 	width: 100%;
