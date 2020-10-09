@@ -3,7 +3,7 @@
 	margin: 0;
 }
 p{
-	font-size: 50px;
+	font-size: 40px;
 }
 .img1{
 	background-image: url("img1.jpg");
@@ -21,4 +21,11 @@ p{
 	background-position: center;
 	background-attachment: fixed;
 	height: 100vh;
+}
+
+@media(max-width: 767px)
+{
+	p{
+		font-size: 22px;
+	}
 }
